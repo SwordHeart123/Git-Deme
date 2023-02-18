@@ -7,5 +7,6 @@ public class MainTest {
         System.out.println("我我我");
 
         System.out.println("你你你");
+        System.out.println("xxxx");
     }
 }
